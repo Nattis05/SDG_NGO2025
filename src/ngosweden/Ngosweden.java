@@ -10,6 +10,8 @@ import oru.inf.InfException;
  *
  * @author natha
  */
+
+//
 public class Ngosweden {
     
     private static InfDB idb;
